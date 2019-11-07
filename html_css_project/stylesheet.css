@@ -1,0 +1,51 @@
+p { font-weight: 900;
+    color: green;
+}
+
+.intro{
+    color: red;
+}
+#top{
+    color: yellow;
+}
+
+a:visited {
+    color: blue;
+}
+a:link { color: purple;
+
+}
+a:hover { 
+    border-style: inset;
+    background-color: lime;
+    color: green;
+}
+
+a:active {
+    color:azure;
+}
+
+body { font-family: Arial, Helvetica, sans-serif;
+    background-color:black;
+    
+}
+
+h1 { border-style: double dashed solid;
+    border-top-width: 20px;
+    border-right-color: red;
+    border-left-color: white;
+    border-top-color: yellow;
+    border-bottom-width: 1px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    text-decoration: underline; text-transform: capitalize;
+    color: greenyellow;
+}
+h2, h3 { 
+    
+    font-style: italic;
+    color: turquoise;
+}
+ul {
+    color:lightgreen
+}
